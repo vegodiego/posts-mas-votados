@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/posts-mas-votados/static/css/main.b3bfdb6c.chunk.css",
+    "main.js": "/posts-mas-votados/static/js/main.44f49744.chunk.js",
+    "main.js.map": "/posts-mas-votados/static/js/main.44f49744.chunk.js.map",
+    "runtime-main.js": "/posts-mas-votados/static/js/runtime-main.a0d2895b.js",
+    "runtime-main.js.map": "/posts-mas-votados/static/js/runtime-main.a0d2895b.js.map",
+    "static/css/2.69121389.chunk.css": "/posts-mas-votados/static/css/2.69121389.chunk.css",
+    "static/js/2.40086e56.chunk.js": "/posts-mas-votados/static/js/2.40086e56.chunk.js",
+    "static/js/2.40086e56.chunk.js.map": "/posts-mas-votados/static/js/2.40086e56.chunk.js.map",
+    "index.html": "/posts-mas-votados/index.html",
+    "precache-manifest.a455d5b11a3b899c8524c0ebd5dfe06c.js": "/posts-mas-votados/precache-manifest.a455d5b11a3b899c8524c0ebd5dfe06c.js",
+    "service-worker.js": "/posts-mas-votados/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/posts-mas-votados/static/css/2.69121389.chunk.css.map",
+    "static/css/main.b3bfdb6c.chunk.css.map": "/posts-mas-votados/static/css/main.b3bfdb6c.chunk.css.map",
+    "static/js/2.40086e56.chunk.js.LICENSE.txt": "/posts-mas-votados/static/js/2.40086e56.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0d2895b.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.40086e56.chunk.js",
+    "static/css/main.b3bfdb6c.chunk.css",
+    "static/js/main.44f49744.chunk.js"
+  ]
+}
