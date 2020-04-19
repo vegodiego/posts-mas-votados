@@ -7,6 +7,26 @@
   pointer-events: none;
 }
 
+.votes{
+  margin-top: 15px;
+}
+
+.buttons{
+  margin-left: 19%;
+}
+
+.row{
+  margin-bottom: 50px;
+}
+
+.imag{
+  margin-top: 20px;
+}
+
+button{
+  margin-right: 5px !important;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
